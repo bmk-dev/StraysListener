@@ -1,0 +1,8 @@
+name: StraysListener
+main: me.stray.listener.ConvictedListener
+depends: [Votifier, Vault]
+version: 1.0
+description: Convicted's votifier listener
+commands:
+  vote:
+    description: Tells a player the links to vote.
